@@ -1,4 +1,5 @@
 // export const Person = ({ person }) => ();
+//changing cuz bugged
 export const Person = ({ person }) => {
   return (
     <section className="Person">
