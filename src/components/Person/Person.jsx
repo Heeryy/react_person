@@ -1,5 +1,5 @@
 // export const Person = ({ person }) => ();
-//changing cuz bugged
+// changing cuz bugged
 export const Person = ({ person }) => {
   return (
     <section className="Person">
